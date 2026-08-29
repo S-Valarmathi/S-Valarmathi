@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valarmathi S</h1>
 
 <h3 align="center">
-CSE Student | Aspiring Software Engineer | Exploring AI & Data Science
+CSE '28 | Building Skills in Tech & Data | Exploring AI | Open to Internships
 </h3>
 
 <p align="center">
@@ -12,39 +12,42 @@ CSE Student | Aspiring Software Engineer | Exploring AI & Data Science
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about programming, technology, and continuous learning.
+I'm a **Computer Science and Engineering student** focused on building my skills in technology, programming, and emerging areas.
 
-- 🎓 Pursuing Computer Science and Engineering
-- ☕ Developing my programming skills with Java
-- 🌐 Building my foundation in HTML, CSS, and JavaScript
-- 🗄️ Learning SQL and database concepts
-- 🤖 Exploring Artificial Intelligence
-- 📊 Interested in Data Science
-- 🧠 Improving my problem-solving and logical thinking
-- 🔧 Familiar with Git, GitHub, and VS Code
-- 🚀 Interested in building practical and meaningful software solutions
-- 🎯 Aspiring to become a Software Engineer
+- 🎓 CSE '28
+- ☕ Building my programming skills with **Java**
+- 🌐 Learning **HTML, CSS, and JavaScript**
+- 🗄️ Learning **SQL and database concepts**
+- 🤖 Exploring **Artificial Intelligence**
+- 📊 Interested in **Data Science**
+- 🧠 Improving my **problem-solving and logical thinking**
+- 🔧 Using **Git, GitHub, and VS Code**
+- 🚀 Open to internships and opportunities to learn, build, and grow
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming**
+### 💻 Programming
+
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-**Web Development**
+### 🌐 Web Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**Database**
+### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Tools**
+### 🔧 Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -54,6 +57,7 @@ I'm a Computer Science and Engineering student passionate about programming, tec
 ## 🚀 Featured Projects
 
 ### 🌐 WebCraft
+
 A web development project created to practice front-end development and strengthen my understanding of web technologies.
 
 **Technologies:** `HTML` `CSS` `JavaScript`
@@ -61,6 +65,7 @@ A web development project created to practice front-end development and strength
 ---
 
 ### 🎯 GuessMaster
+
 A number guessing game created to practice JavaScript programming logic, user interaction, and basic web development concepts.
 
 **Technologies:** `HTML` `CSS` `JavaScript`
@@ -68,6 +73,7 @@ A number guessing game created to practice JavaScript programming logic, user in
 ---
 
 ### ☕ Java
+
 A collection of Java programming practice focused on strengthening programming fundamentals, logic building, and problem-solving skills.
 
 **Technology:** `Java`
@@ -101,7 +107,7 @@ A collection of Java programming practice focused on strengthening programming f
 - 💻 Practicing programming problems regularly
 - 🧩 Strengthening logical thinking and problem-solving skills
 - 🚀 Participating in technical activities and hackathons
-- 📈 Continuously improving programming skills
+- 📈 Continuously improving my programming skills
 - 🌱 Exploring new technologies and development concepts
 
 ---
@@ -109,8 +115,7 @@ A collection of Java programming practice focused on strengthening programming f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Valarmathi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Valarmathi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Valarmathi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -118,7 +123,7 @@ A collection of Java programming practice focused on strengthening programming f
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Valarmathi&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=S-Valarmathi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -149,6 +154,7 @@ A collection of Java programming practice focused on strengthening programming f
   <a href="https://www.linkedin.com/in/valarmathi-s-72001a377">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:valarmathi.sakthivel99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -177,6 +183,8 @@ A collection of Java programming practice focused on strengthening programming f
   ⭐ Thanks for visiting my profile! ⭐
 </h3>
 
-<p align="center">
-  If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+ 
+
+
+
+
