@@ -1,30 +1,25 @@
 <h1 align="center">Hi 👋, I'm Valarmathi S</h1>
 
 <h3 align="center">
-CSE '28 | Building Skills in Tech & Data | Exploring AI | Open to Internships
+CSE '28 | Building Skills in Tech & Web | Exploring AI | Open to Internships
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Exploring+Artificial+Intelligence;Interested+in+Data+Science;Learning+%26+Building+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Learning+Full+Stack+Web+Development;Exploring+Artificial+Intelligence;Improving+Problem+Solving;Learning+%26+Building+Every+Day" />
 </p>
-
----
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science and Engineering student** focused on building my skills in technology, programming, and emerging areas.
+I'm a **Computer Science and Engineering student** focused on building my skills in programming, **Full Stack Web Development**, and modern technologies.
 
 - 🎓 CSE '28
-- ☕ Building my programming skills with **Java**
-- 🌐 Learning **HTML, CSS, and JavaScript**
-- 🗄️ Learning **SQL and database concepts**
-- 🤖 Exploring **Artificial Intelligence**
-- 📊 Interested in **Data Science**
-- 🧠 Improving my **problem-solving and logical thinking**
-- 🔧 Using **Git, GitHub, and VS Code**
-- 🚀 Open to internships and opportunities to learn, build, and grow
-
----
+- ☕ Building my programming skills with `Java`
+- 🌐 Learning `Full Stack Web Development`
+- 🗄️ Learning `SQL` and database concepts
+- 🤖 Exploring `Artificial Intelligence`
+- 🧠 Improving problem-solving and logical thinking
+- 🔧 Using `Git`, `GitHub`, and `VS Code`
+- 🚀 Open to internships and opportunities to learn and grow
 
 ## 🛠️ Tech Stack
 
@@ -52,8 +47,6 @@ I'm a **Computer Science and Engineering student** focused on building my skills
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ## 🌐 WebCraft
@@ -62,15 +55,11 @@ A web development project created to practice front-end development and strength
 
 **Technologies:** `HTML` `CSS` `JavaScript`
 
----
-
 ## 🎯 GuessMaster
 
 A number guessing game created to practice JavaScript programming logic, user interaction, and basic web development concepts.
 
 **Technologies:** `HTML` `CSS` `JavaScript`
-
----
 
 ## ☕ Java
 
@@ -78,39 +67,32 @@ A collection of Java programming practice focused on strengthening programming f
 
 **Technology:** `Java`
 
----
-
 ## 🤖 Areas of Interest
 
-- Artificial Intelligence
-- Data Science
+- Full Stack Web Development
 - Software Engineering
-- Web Development
+- Artificial Intelligence
 - Problem Solving
+- Web Technologies
 - Emerging Technologies
-
----
 
 ## 📚 Currently Learning
 
-- ☕ Java
-- 🌐 JavaScript
-- 🗄️ SQL & Database Concepts
+- ☕ `Java`
+- 🌐 `Full Stack Web Development`
+- 🟨 `JavaScript`
+- 🗄️ `SQL` & Database Concepts
 - 🧠 Data Structures & Algorithms
 - 🤖 Artificial Intelligence
-- 📊 Data Science
 
----
+## 💡 What I'm Working On
 
-## 🏆 Coding Journey
-
-- 💻 Practicing programming problems regularly
-- 🧩 Strengthening logical thinking and problem-solving skills
-- 🚀 Participating in technical activities and hackathons
-- 📈 Continuously improving my programming skills
-- 🌱 Exploring new technologies and development concepts
-
----
+- 🌐 Building projects with Full Stack Web Development
+- ☕ Strengthening Java programming skills
+- 🧠 Practicing Data Structures & Algorithms
+- 🧩 Improving problem-solving and logical thinking
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Building practical projects and gaining hands-on experience
 
 ## 📫 Connect With Me
 
@@ -124,25 +106,17 @@ A collection of Java programming practice focused on strengthening programming f
   </a>
 </p>
 
----
-
 ## ✨ My Approach
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Grow%20%E2%80%A2%20Make%20an%20Impact-6C63FF?style=for-the-badge" alt="Learn • Build • Grow • Make an Impact"/>
+  <i>“Learn continuously. Build consistently. Grow confidently.”</i>
 </p>
 
 <p align="center">
-  <i>"Learn with purpose. Build with passion. Grow with consistency."</i>
+  I focus on learning new technologies, improving my problem-solving skills,<br/>
+  building practical projects, and growing one step at a time.
 </p>
-
-<p align="center">
-  I believe in continuous learning, meaningful work, and becoming better with every step.<br/>
-  Turning curiosity into skills, and skills into meaningful solutions. 🚀
-</p>
-
----
 
 <h3 align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile!
 </h3>
