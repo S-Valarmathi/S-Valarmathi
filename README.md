@@ -88,7 +88,7 @@ Technology: "Java"
   </a>  <a href="mailto:valarmathi.sakthivel99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>✨ My Mindset
+</p>✨ My Approach
 
 <p align="center">
   <i>“Learn continuously. Build consistently. Grow confidently.”</i>
