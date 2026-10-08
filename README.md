@@ -1,122 +1,100 @@
-<h1 align="center">Hi 👋, I'm Valarmathi S</h1>
+<div align="center">
 
-<h3 align="center">
-CSE '28 | Building Skills in Tech & Web | Exploring AI | Open to Internships
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:7B2FF7&height=5" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Learning+Full+Stack+Web+Development;Exploring+Artificial+Intelligence;Improving+Problem+Solving;Learning+%26+Building+Every+Day" />
-</p>
+# Hi, I'm Valarmathi S 👋
+
+### CSE '28 | Aspiring Java Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Web+Development;Learning+and+Building+Web+Projects;Exploring+Artificial+Intelligence;Growing+My+Technical+Skills" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:7B2FF7&height=5" width="100%"/>
+
+</div>
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science and Engineering student** focused on building my skills in programming, **Full Stack Web Development**, and modern technologies.
+I'm a Computer Science and Engineering student passionate about **Java Full Stack Web Development** and exploring modern technologies.
 
-- 🎓 CSE '28
-- ☕ Building my programming skills with `Java`
-- 🌐 Learning `Full Stack Web Development`
-- 🗄️ Learning `SQL` and database concepts
-- 🤖 Exploring `Artificial Intelligence`
-- 🧠 Improving problem-solving and logical thinking
-- 🔧 Using `Git`, `GitHub`, and `VS Code`
-- 🚀 Open to internships and opportunities to learn and grow
+* 🎓 CSE '28
+* ☕ Learning Java programming
+* 🌐 Developing my Full Stack Web Development skills
+* 🗄️ Learning SQL and database concepts
+* 🤖 Exploring Artificial Intelligence
+* 🔧 Using Git, GitHub, and VS Code
+* 🚀 Open to internship opportunities and continuous learning
 
 ## 🛠️ Tech Stack
 
-## 💻 Programming
+**Programming Language**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
 
-## 🌐 Full Stack Web Development
+**Frontend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript"/>
 
-## 🗄️ Database
+**Database**
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 
-## 🔧 Tools
+**Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
 
 ## 🚀 Featured Projects
 
-## 🌐 WebCraft
+### 🌐 WebCraft
 
-A web development project created to practice front-end development and strengthen my understanding of web technologies.
+A web development project created to practice frontend development and strengthen my understanding of web technologies.
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+**Technologies:** HTML · CSS · JavaScript
 
-## 🎯 GuessMaster
+### 🎯 GuessMaster
 
-A number guessing game created to practice JavaScript programming logic, user interaction, and basic web development concepts.
+A number guessing game developed to practice JavaScript programming logic, user interaction, and basic web development.
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+**Technologies:** HTML · CSS · JavaScript
 
-## ☕ Java
+### ☕ Java Programming
 
-A collection of Java programming practice focused on strengthening programming fundamentals, logic building, and problem-solving skills.
+A collection of Java practice programs focused on programming fundamentals and logical thinking.
 
-**Technology:** `Java`
-
-## 🤖 Areas of Interest
-
-- Full Stack Web Development
-- Software Engineering
-- Artificial Intelligence
-- Problem Solving
-- Web Technologies
-- Emerging Technologies
+**Technology:** Java
 
 ## 📚 Currently Learning
 
-- ☕ `Java`
-- 🌐 `Full Stack Web Development`
-- 🟨 `JavaScript`
-- 🗄️ `SQL` & Database Concepts
-- 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
+* Java Programming
+* Full Stack Web Development
+* JavaScript
+* SQL and Database Concepts
+* Data Structures and Algorithms
+* Artificial Intelligence
 
-## 💡 What I'm Working On
+## 🎯 Areas of Interest
 
-- 🌐 Building projects with Full Stack Web Development
-- ☕ Strengthening Java programming skills
-- 🧠 Practicing Data Structures & Algorithms
-- 🧩 Improving problem-solving and logical thinking
-- 🤖 Exploring Artificial Intelligence
-- 🚀 Building practical projects and gaining hands-on experience
+* Java Full Stack Web Development
+* Frontend and Backend Development
+* Artificial Intelligence
+* Web Technologies
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/valarmathi-s-72001a377">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="left">
 
-  <a href="mailto:valarmathi.sakthivel99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/valarmathi-s-72001a377">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:valarmathi.sakthivel99@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-## ✨ My Approach
+</div>
 
-<p align="center">
-  <i>“Learn continuously. Build consistently. Grow confidently.”</i>
-</p>
+<div align="center">
 
-<p align="center">
-  I focus on learning new technologies, improving my problem-solving skills,<br/>
-  building practical projects, and growing one step at a time.
-</p>
+### Thanks for visiting my profile! 👋
 
-<h3 align="center">
-  Thanks for visiting my profile!
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:7B2FF7&height=5" width="100%"/>
+
+</div>
