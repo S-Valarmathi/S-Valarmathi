@@ -4,8 +4,10 @@
 
 ### CSE '28 | Java Full Stack Web Development | Exploring AI
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=150&section=header&text=Java%20Full%20Stack%20Web%20Development&fontSize=27&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" />
 </div>
 
 ## 👩‍💻 About Me
@@ -24,10 +26,10 @@ I'm passionate about **Java Full Stack Web Development** and interested in explo
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ☕ Backend
+### ☕ Programming & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🗄️ Database
@@ -36,7 +38,7 @@ I'm passionate about **Java Full Stack Web Development** and interested in explo
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools & Version Control
+### 🔧 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -44,29 +46,28 @@ I'm passionate about **Java Full Stack Web Development** and interested in explo
 
 ## 🚀 Featured Projects
 
-|       Project      | Description                                                                                                     | Tech Stack                                             |
-| :----------------: | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 🎯 **GuessMaster** | Interactive number-guessing game focused on JavaScript logic and user interaction.                              | `HTML` `CSS` `JavaScript`                              |
-|   🌐 **WebCraft**  | Frontend project focused on responsive design, clean UI, and web development fundamentals.                      | `HTML` `CSS`                                           |
-|   💰 **FinTrack**  | Personal financial management system for managing income, expenses, budgets, savings goals, and bill reminders. | `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `MySQL` |
+|       Project      | Description                                                                                                     |                Tech Stack                |
+| :----------------: | --------------------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+| 🎯 **GuessMaster** | Interactive number-guessing game focused on JavaScript logic and user interaction.                              |         `HTML` `CSS` `JavaScript`        |
+|   🌐 **WebCraft**  | Frontend project focused on responsive design, clean UI, and web development fundamentals.                      |               `HTML` `CSS`               |
+|   💰 **FinTrack**  | Personal financial management system for managing income, expenses, budgets, savings goals, and bill reminders. | `HTML` `CSS` `JavaScript` `Java` `MySQL` |
 
 ## ☕ Java Learning
 
 Building strong Java programming skills through hands-on coding across **fundamentals, arrays, strings, collections, object-oriented programming, exception handling, file handling, and DSA concepts**.
 
-**Topics:** `Java Basics` · `Arrays` · `Strings` · `Collections` · `OOP` · `Exception Handling` · `File I/O` · `DSA`
+`Java Basics` · `Arrays` · `Strings` · `Collections` · `OOP` · `Exception Handling` · `File I/O` · `DSA`
 
 ## 📚 Currently Learning
 
 🔹 **JavaScript** — Strengthening frontend development skills
-🔹 **Spring Boot** — Learning backend development and REST APIs
 🔹 **SQL & MySQL** — Working with databases and queries
 🔹 **DSA** — Strengthening data structures and algorithmic concepts
 🔹 **Full Stack Integration** — Connecting frontend, backend, and databases
 
 ## 🎯 Areas of Interest
 
-`Java Full Stack Web Development` · `Backend Development` · `Web Technologies` · `Artificial Intelligence` · `Emerging Technologies`
+`Java Full Stack Web Development` · `Backend Development` · `Web Technologies` · `Artificial Intelligence`
 
 ## 🔗 Connect With Me
 
@@ -82,6 +83,10 @@ Building strong Java programming skills through hands-on coding across **fundame
   </a>
 </p>
 
-## ✨ Thanks for Visiting!
+<div align="center">
 
-Thanks for stopping by my profile. Feel free to explore my repositories and projects.
+### ✨ Thanks for Visiting!
+
+**Keep Learning • Keep Building • Keep Growing**
+
+</div>
