@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi 👋, I'm Valarmathi S
 
 ### CSE '28 | Java Full Stack Web Development | Exploring AI
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Web+Development;Building+Web+Projects;Exploring+Artificial+Intelligence" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="70%" />
+
+</div>
 
 ## 👩‍💻 About Me
 
@@ -16,21 +18,29 @@ I'm passionate about **Java Full Stack Web Development** and interested in explo
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Frontend
 
-`Java`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### 🌐 Frontend
+### ☕ Backend
 
-`HTML` `CSS` `JavaScript`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
 ### 🗄️ Database
 
-`SQL` `MySQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### 🔧 Tools
+### 🔧 Tools & Version Control
 
-`Git` `GitHub` `VS Code`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ## 🚀 Featured Projects
 
